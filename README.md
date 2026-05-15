@@ -10,7 +10,7 @@ A high-performance Machine Learning system designed to classify emails as **Spam
 
 ## 🚀 Live Access
 * **Interactive Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yashraajsharma/Email-Spam-Detection/blob/main/main.ipynb)
-* **Demo Video:** [Link to your GIF or Screen Recording here]
+
 
 ## 🛠️ Technical Workflow
 The system follows a rigorous pipeline to ensure high precision in classification:
