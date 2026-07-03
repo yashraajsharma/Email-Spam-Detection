@@ -153,4 +153,4 @@ model choice rather than one based on convention alone.
 
 **Yash Raj Sharma**
 B.Tech Information Technology, JECRC, Jaipur
-[GitHub]((https://github.com/yashraajsharma)) · [LinkedIn]((https://www.linkedin.com/in/yashrajsharma45/))
+[GitHub](https://github.com/yashraajsharma) · [LinkedIn](https://www.linkedin.com/in/yashrajsharma45/)
