@@ -27,7 +27,7 @@ convention.
 ## Tech Stack
 
 - **Language:** Python 3
-- **Libraries:** scikit-learn, pandas, matplotlib
+- **Libraries:** scikit-learn, pandas, matplotlib, streamlit
 
 ---
 
@@ -50,7 +50,7 @@ spam-detector/
 ## Installation & Usage
 
 ```bash
-git clone https://github.com/<your-username>/spam-detector.git
+git clone https://github.com/yashraajsharma/Email-Spam-Detection.git
 cd spam-detector
 pip install -r requirements.txt
 ```
@@ -145,7 +145,6 @@ model choice rather than one based on convention alone.
   robust comparison
 - Try word embeddings (Word2Vec) or a transformer-based model (e.g.
   DistilBERT) as a stronger baseline
-- Deploy as a simple web app (Streamlit/Flask) with a live text-input demo
 - Add hyperparameter tuning (GridSearchCV) for the winning model
 
 ---
@@ -154,4 +153,4 @@ model choice rather than one based on convention alone.
 
 **Yash Raj Sharma**
 B.Tech Information Technology, JECRC, Jaipur
-[GitHub](https://github.com/yashrajsharma) · [LinkedIn](https://linkedin.com/in/yashrajsharma)
+[GitHub]((https://github.com/yashraajsharma)) · [LinkedIn]((https://www.linkedin.com/in/yashrajsharma45/))
